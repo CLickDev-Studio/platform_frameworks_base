@@ -194,6 +194,7 @@
     <string name="reboot_to_update_reboot" msgid="6428441000951565185">"正在重新启动…"</string>
     <string name="reboot_to_reset_title" msgid="4142355915340627490">"恢复出厂设置"</string>
     <string name="reboot_to_reset_message" msgid="2432077491101416345">"正在重新启动…"</string>
+    <string name="reboot_to_recovery_message">正在重启到恢复模式</string>
     <string name="shutdown_progress" msgid="2281079257329981203">"正在关机..."</string>
     <string name="shutdown_confirm" product="tablet" msgid="3385745179555731470">"您的平板电脑会关闭。"</string>
     <string name="shutdown_confirm" product="tv" msgid="476672373995075359">"您的电视即将关闭。"</string>
